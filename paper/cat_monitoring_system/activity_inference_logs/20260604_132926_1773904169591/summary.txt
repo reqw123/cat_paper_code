@@ -1,0 +1,36 @@
+============================================================
+  CAT ACTIVITY INFERENCE SUMMARY REPORT
+============================================================
+  Generated    : 2026-06-04 13:29:40
+  Video        : 1773904169591.mp4
+  YOLO Model   : v11s_91.pt
+  ST-GCN Model : stgcn_best_022_xy_v_att_on.pth
+
+  ── Frame Stats ──────────────────────────────────────
+  Total frames     : 328
+  Detected frames  : 60  (18.3%)
+  Missing frames   : 268  (81.7%)
+  Abnormal frames  : 54  (90.0% of detected)
+
+  ── Activity Value  (instantaneous, 0-100) ───────────
+  Mean             : 33.63
+  Std              : 10.15
+  P95              : 44.00
+  Max              : 66.00
+
+  ── Activity Score  (3s rolling avg, 0-100) ───────
+  Mean             : 9.25
+  Std              : 9.00
+  P95              : 30.00
+
+  ── Displacement (px, before normalisation) ──────────
+  Mean             : 11.91
+  Std              : 5.21
+  Max              : 20.74
+  ABNORMAL_THRES   : 0.20 px  (used for abnormal flag)
+  MAX_MOTION       : 20.0 px  (activity_value = 100 at this disp)
+
+  ── Behavior Distribution (GCN valid frames) ─────────
+  WALK         :    22 frames  100.0%  ████████████████████
+
+============================================================
