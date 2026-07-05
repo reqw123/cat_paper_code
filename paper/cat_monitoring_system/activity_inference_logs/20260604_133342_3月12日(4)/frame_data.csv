@@ -1,9 +1,0 @@
-﻿frame_idx,timestamp_sec,detected,body_scale_px,active_kpts,mean_kpt_conf,displacement_px,activity_value,activity_score,abnormal,behavior_id,behavior_label,gcn_confidence
-0,0.000,1,0.00,17,0.9580,0.0000,0,0,0,-1,LOW CONF,0.0000
-1,0.033,1,1000.24,17,0.9581,0.4845,0,0,1,-1,LOW CONF,0.0000
-2,0.067,1,1095.18,17,0.9514,49.0005,12,4,1,-1,LOW CONF,0.0000
-3,0.100,1,1089.36,17,0.9264,23.0568,12,6,1,-1,LOW CONF,0.0000
-4,0.133,1,1104.00,17,0.9490,16.7503,11,7,1,-1,LOW CONF,0.0000
-5,0.167,1,1103.73,17,0.9542,18.8657,11,8,1,-1,LOW CONF,0.0000
-6,0.200,1,1110.70,17,0.9504,26.0148,13,8,1,-1,LOW CONF,0.0000
-7,0.233,1,1088.43,17,0.9595,36.2952,16,9,1,-1,LOW CONF,0.0000
