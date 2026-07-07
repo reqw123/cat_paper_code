@@ -9928,7 +9928,7 @@
       "frame_id": 84,
       "original_frame_id": 67,
       "timestamp": 2.8,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -10046,7 +10046,7 @@
       "frame_id": 85,
       "original_frame_id": 68,
       "timestamp": 2.8333333333333335,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -10164,7 +10164,7 @@
       "frame_id": 86,
       "original_frame_id": 69,
       "timestamp": 2.8666666666666667,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -10282,7 +10282,7 @@
       "frame_id": 87,
       "original_frame_id": 70,
       "timestamp": 2.9,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -10400,7 +10400,7 @@
       "frame_id": 88,
       "original_frame_id": 70,
       "timestamp": 2.933333333333333,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -10518,7 +10518,7 @@
       "frame_id": 89,
       "original_frame_id": 71,
       "timestamp": 2.966666666666667,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -10636,7 +10636,7 @@
       "frame_id": 90,
       "original_frame_id": 72,
       "timestamp": 3.0,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -10754,7 +10754,7 @@
       "frame_id": 91,
       "original_frame_id": 73,
       "timestamp": 3.033333333333333,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -10872,7 +10872,7 @@
       "frame_id": 92,
       "original_frame_id": 74,
       "timestamp": 3.066666666666667,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -10990,7 +10990,7 @@
       "frame_id": 93,
       "original_frame_id": 74,
       "timestamp": 3.1,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -11108,7 +11108,7 @@
       "frame_id": 94,
       "original_frame_id": 75,
       "timestamp": 3.1333333333333333,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -11226,7 +11226,7 @@
       "frame_id": 95,
       "original_frame_id": 76,
       "timestamp": 3.1666666666666665,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -11344,7 +11344,7 @@
       "frame_id": 96,
       "original_frame_id": 77,
       "timestamp": 3.2,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -11462,7 +11462,7 @@
       "frame_id": 97,
       "original_frame_id": 78,
       "timestamp": 3.2333333333333334,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -11580,7 +11580,7 @@
       "frame_id": 98,
       "original_frame_id": 78,
       "timestamp": 3.2666666666666666,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -11698,7 +11698,7 @@
       "frame_id": 99,
       "original_frame_id": 79,
       "timestamp": 3.3,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -11816,7 +11816,7 @@
       "frame_id": 100,
       "original_frame_id": 80,
       "timestamp": 3.3333333333333335,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -11934,7 +11934,7 @@
       "frame_id": 101,
       "original_frame_id": 81,
       "timestamp": 3.3666666666666667,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -12052,7 +12052,7 @@
       "frame_id": 102,
       "original_frame_id": 82,
       "timestamp": 3.4,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -12170,7 +12170,7 @@
       "frame_id": 103,
       "original_frame_id": 82,
       "timestamp": 3.433333333333333,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -12288,7 +12288,7 @@
       "frame_id": 104,
       "original_frame_id": 83,
       "timestamp": 3.466666666666667,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -12406,7 +12406,7 @@
       "frame_id": 105,
       "original_frame_id": 84,
       "timestamp": 3.5,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -12524,7 +12524,7 @@
       "frame_id": 106,
       "original_frame_id": 85,
       "timestamp": 3.533333333333333,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -21256,7 +21256,7 @@
       "frame_id": 180,
       "original_frame_id": 144,
       "timestamp": 6.0,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -21374,7 +21374,7 @@
       "frame_id": 181,
       "original_frame_id": 145,
       "timestamp": 6.033333333333333,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -21492,7 +21492,7 @@
       "frame_id": 182,
       "original_frame_id": 146,
       "timestamp": 6.066666666666666,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -21610,7 +21610,7 @@
       "frame_id": 183,
       "original_frame_id": 146,
       "timestamp": 6.1,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -21728,7 +21728,7 @@
       "frame_id": 184,
       "original_frame_id": 147,
       "timestamp": 6.133333333333334,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -21846,7 +21846,7 @@
       "frame_id": 185,
       "original_frame_id": 148,
       "timestamp": 6.166666666666667,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -21964,7 +21964,7 @@
       "frame_id": 186,
       "original_frame_id": 149,
       "timestamp": 6.2,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -22082,7 +22082,7 @@
       "frame_id": 187,
       "original_frame_id": 150,
       "timestamp": 6.233333333333333,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -22200,7 +22200,7 @@
       "frame_id": 188,
       "original_frame_id": 150,
       "timestamp": 6.266666666666667,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -22318,7 +22318,7 @@
       "frame_id": 189,
       "original_frame_id": 151,
       "timestamp": 6.3,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -22436,7 +22436,7 @@
       "frame_id": 190,
       "original_frame_id": 152,
       "timestamp": 6.333333333333333,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -22554,7 +22554,7 @@
       "frame_id": 191,
       "original_frame_id": 153,
       "timestamp": 6.366666666666666,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -22672,7 +22672,7 @@
       "frame_id": 192,
       "original_frame_id": 154,
       "timestamp": 6.4,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -22790,7 +22790,7 @@
       "frame_id": 193,
       "original_frame_id": 154,
       "timestamp": 6.433333333333334,
-      "label": "lick",
+      "label": "unannotated",
       "detected": true,
       "keypoints": [
         {
@@ -35417,8 +35417,8 @@
   "action_intervals": [
     {
       "action": "lick",
-      "start": 84,
-      "end": 193
+      "start": 107,
+      "end": 179
     }
   ]
 }
