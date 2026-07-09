@@ -1,0 +1,3 @@
+Method,Alpha,Raw_KP_P95,Smoothed_KP_P95,KP_Improvement_%
+BBox EMA,0.2,41.709,42.025,-0.8
+Keypoint EMA,0.2,41.709,14.177,66.0

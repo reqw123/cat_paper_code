@@ -1,0 +1,12 @@
+Raw KP P95 (baseline):   25.038 px
+
+BBox EMA (alpha=0.2):
+  Smoothed KP P95:       30.691 px
+  KP Improvement:        -22.6 %
+
+Keypoint EMA (alpha=0.2):
+  Smoothed KP P95:       13.675 px
+  KP Improvement:        45.4 %
+
+Diagnosis:
+Most pose jitter originates from keypoint localization error rather than bounding box drift.
