@@ -1,4 +1,0 @@
-Best Alpha:           0.4
-BBox Improvement:     28.6 %
-Keypoint Improvement: 4.8 %
-Recommended EMA Alpha:0.4
